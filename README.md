@@ -12,9 +12,9 @@ Build a binary classification model to detect fraudulent transactions using logi
 
 ## 🔍 Key Insights
 - The dataset is highly imbalanced (only ~0.17% fraud cases)
-- Logistic regression handles the problem with ~98% ROC-AUC
+- Logistic regression handles the problem with ~95% ROC-AUC
 - Evaluation done using confusion matrix, precision/recall, and ROC curve
 
 ## 📈 Evaluation
-- ROC-AUC Score: 0.97
+- ROC-AUC Score: 0.955
 - Precision (Fraud): High precision, low false positives
